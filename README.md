@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers finess training services.
@@ -11,4 +11,6 @@ A website that offers finess training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with :heart: by Jordan Turcott
+Made with ❤️ by Jordan Turcott
+
+### ©️2019 Run Buddy, Inc.
