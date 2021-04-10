@@ -22,6 +22,7 @@ header h1 {
     color: #fce138;
     margin: 0;
     display: inline;
+    position: center;
 }
 header a {
     text-decoration: none;
