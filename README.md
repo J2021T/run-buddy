@@ -3,7 +3,7 @@
 ## Purpose
 A website that offers finess training services.
 
-## Buitl With
+## Built With
 * HTML
 * CSS
 
